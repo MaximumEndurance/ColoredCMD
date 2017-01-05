@@ -1,6 +1,6 @@
 #include <iostream>
 #include <windows.h>	//windows API Header
-#define DEFAULT_CONFIG 7    // 7 being the color code for black background with white text
+#define DEFAULT_CONFIG 15    // 15 being the color code for black background with white text
 using namespace std;
 
 
